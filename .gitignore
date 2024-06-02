@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#folders
+.idea/
+.pytest_cache/
+allure-results/
+.venv
+venv
+# reporting
+report/
+report.xml
+.ruff_cache/
+
+# logs
+*.log
+
+# secure info
+secure.json
