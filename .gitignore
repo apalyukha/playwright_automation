@@ -18,4 +18,4 @@ report.xml
 *.log
 
 # secure info
-secure.json
+#secure.json
